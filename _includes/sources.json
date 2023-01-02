@@ -8,14 +8,18 @@
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
       "beta": true,
-      "version": "0.3.0",
-      "versionDate": "2022-012-18T06:00:00-05:00",
-      "versionDescription": "Custom pre-release build",
-      "downloadURL": "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/SideStore.ipa",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "date": "2022-012-18T06:00:00-05:00",
+          "localizedDescription": "Pre-release build\n\n - Uses my personal anisette server as default\n - Uses my app source as default\n - Currently very broken, waiting on upstream fixes",
+          "downloadURL": "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/SideStore.ipa",
+          "size": 8065095
+        }
+      ],
       "localizedDescription": "SideStore is an AppStore alternative that let's you sideload other apps.",
       "iconURL": "https://apps.litritt.com/assets/apps/sidestore/icon.png",
       "tintColor": "A405FA",
-      "size": 8065095,
       "screenshotURLs": [
         "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/news.png",
         "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/browse.png",
@@ -29,15 +33,6 @@
         {
           "type": "background-audio",
           "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.3.0",
-          "date": "2022-012-18T06:00:00-05:00",
-          "downloadURL": "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/SideStore.ipa",
-          "localizedDescription": "Custom pre-release build",
-          "size": 8065095
         }
       ],
       "appID": "com.SideStore.SideStore"
