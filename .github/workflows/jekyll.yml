@@ -7,6 +7,9 @@
 name: Build and Deploy to Pages
 
 on:
+  # Runs once a day
+  schedule:
+    - cron: "0 0 * * *"
   # Runs on pushes and prs targeting the default branch
   push:
     branches: ["main"]
