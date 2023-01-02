@@ -39,7 +39,7 @@ jobs:
       - name: Verify JSON # Checks the sourcejson file but not the index.json
         uses: limitusus/json-syntax-check@v2.0.0
         with:
-          pattern: "/_includes/.json"
+          pattern: "\\.json$"
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.133.0
         with:
