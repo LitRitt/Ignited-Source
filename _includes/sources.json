@@ -25,6 +25,7 @@
         "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/browse.png",
         "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/apps.png"
       ],
+      "downloadURL": "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/SideStore.ipa",
       "permissions": [
         {
           "type": "background-fetch",
