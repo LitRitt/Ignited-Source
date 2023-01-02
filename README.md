@@ -1,3 +1,3 @@
-# ***Lit Sites***
+# ***Lit Apps***
 
-A base repo for my [Jekyll](https://github.com/jekyll/jekyll) sites
+An AltSource aggregator that serves a single source file
