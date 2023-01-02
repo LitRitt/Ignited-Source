@@ -1,0 +1,5 @@
+---
+title: JSON Source
+permalink: /
+---
+{% include sources.json %}

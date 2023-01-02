@@ -1,0 +1,235 @@
+{
+  "name": "LitStore",
+  "identifier": "com.litritt.litstore",
+  "sourceURL": "https://apps.litritt.com",
+  "apps": [
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore Team",
+      "beta": true,
+      "version": "0.3.0",
+      "versionDate": "2022-012-18T06:00:00-05:00",
+      "versionDescription": "Custom pre-release build",
+      "downloadURL": "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/SideStore.ipa",
+      "localizedDescription": "SideStore is an AppStore alternative that let's you sideload other apps.",
+      "iconURL": "https://apps.litritt.com/assets/apps/sidestore/icon.png",
+      "tintColor": "A405FA",
+      "size": 8065095,
+      "screenshotURLs": [
+        "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/news.png",
+        "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/browse.png",
+        "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/apps.png"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.3.0",
+          "date": "2022-012-18T06:00:00-05:00",
+          "downloadURL": "https://github.com/LitRitt/LitStore/releases/download/v0.3.0/SideStore.ipa",
+          "localizedDescription": "Custom pre-release build",
+          "size": 8065095
+        }
+      ],
+      "appID": "com.SideStore.SideStore"
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "developerName": "Riley Testut",
+      "subtitle": "Classic games in your pocket.",
+      "version": "1.4b4",
+      "versionDate": "2022-11-07T12:00:00-06:00",
+      "versionDescription": "NEW\n\u2022 Fixed app freezing when using Hold Button feature\n\u2022 Fixed re-activating held inputs\n\nPREVIOUS BETAS\n\u2022 Supports Split View and Stage Manager multitasking on iPad\n\u2022 Optimized full screen-width controller skins when using Split View, Slide Over, or Stage Manager\n\u2022 Fixed using Xbox controller analog sticks as D-pad inputs\n\u2022 Fixed remapping analog sticks",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_4_b4.ipa",
+      "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "8A28F7",
+      "size": 42958876,
+      "beta": true,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+      ],
+      "versions": [
+        {
+          "version": "1.4b4",
+          "date": "2022-11-07T12:00:00-06:00",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_4_b4.ipa",
+          "localizedDescription": "NEW\n\u2022 Fixed app freezing when using Hold Button feature\n\u2022 Fixed re-activating held inputs\n\nPREVIOUS BETAS\n\u2022 Supports Split View and Stage Manager multitasking on iPad\n\u2022 Optimized full screen-width controller skins when using Split View, Slide Over, or Stage Manager\n\u2022 Fixed using Xbox controller analog sticks as D-pad inputs\n\u2022 Fixed remapping analog sticks",
+          "size": 42958876
+        }
+      ],
+      "appID": "com.rileytestut.Delta.Beta"
+    },
+    {
+      "name": "XPatcher",
+      "bundleIdentifier": "com.wh0ba.xpatcher",
+      "developerName": "wh0ba",
+      "subtitle": "Allows you to apply patches to files on your iOS devices",
+      "version": "2.2",
+      "versionDate": "2022-01-01T12:00:00-06:00",
+      "versionDescription": "Apply patches to files. Useful for ROM Hacks",
+      "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
+      "localizedDescription": "GUI front-end for flips, libppf, xdelta, and libRUP patching libraries This app allows you to apply patches to files on your iOS devices , mostly used to apply rom hacks to video game roms With a simple to use interface to make it as user-friendly as possible",
+      "iconURL": "https://github.com/Wh0ba/XPatcher/blob/master/Resources/app_icons/AppIcon60x60@3x.png?raw=true",
+      "tintColor": "FF686F",
+      "size": 357189,
+      "screenshotURLs": [],
+      "appID": "com.wh0ba.xpatcher",
+      "versions": [
+        {
+          "version": "2.2",
+          "date": "2022-01-01T12:00:00-06:00",
+          "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
+          "localizedDescription": "Apply patches to files. Useful for ROM Hacks",
+          "size": 357189
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Caution!",
+      "identifier": "caution",
+      "caption": "This is a custom pre-release build! Use at your own risk!",
+      "tintColor": "FF0000",
+      "date": "2050-12-25",
+      "notify": false
+    },
+    {
+      "title": "LitStore GitHub",
+      "identifier": "litstore-github",
+      "caption": "Check out the GitHub page for this project",
+      "tintColor": "A405FA",
+      "url": "https://github.com/LitRitt/LitStore",
+      "date": "2050-12-25",
+      "notify": false
+    },
+    {
+      "title": "Delta Gaining DS Support",
+      "identifier": "delta-ds-support",
+      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
+      "tintColor": "8A28F7",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65603159-0676a400-df5a-11e9-882e-dc5566f4d50a.png",
+      "date": "2019-09-25",
+      "notify": false
+    },
+    {
+      "title": "Delta Now Available",
+      "identifier": "delta-now-available",
+      "caption": "Finally, relive your favorite NES, SNES, GB(C), GBA, and N64 games.",
+      "tintColor": "8A28F7",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
+      "appID": "com.rileytestut.Delta",
+      "date": "2019-09-28",
+      "notify": true
+    },
+    {
+      "title": "Sideloading is Here!",
+      "identifier": "sideloading-is-here",
+      "caption": "Update to AltStore 1.3 to install any app directly from Files.",
+      "tintColor": "018084",
+      "imageURL": "https://user-images.githubusercontent.com/705880/79022069-02932380-7b32-11ea-8bad-49907cb97ece.png",
+      "date": "2020-04-10T13:00:00-07:00",
+      "notify": true
+    },
+    {
+      "title": "iOS 13.4 Fixes App Crashes",
+      "identifier": "ios-13-4-now-available",
+      "caption": "Update to iOS 13.4 to fix some sideloaded apps crashing on launch.",
+      "tintColor": "34C759",
+      "date": "2020-04-10T13:30:00-07:00",
+      "notify": false
+    },
+    {
+      "title": "Clip Now Available!",
+      "identifier": "clip-now-available",
+      "caption": "Finally, a clipboard manager that can run in the background \u2014 no jailbreak required.",
+      "tintColor": "EC008C",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65606598-04afdf00-df60-11e9-8f93-af6345d39557.png",
+      "appID": "com.rileytestut.Clip",
+      "date": "2020-06-17",
+      "notify": true
+    },
+    {
+      "title": "Delta, Meet Nintendo DS",
+      "identifier": "delta-meet-ds",
+      "caption": "Update to Delta 1.3 to relive all your favorite Nintendo DS games.",
+      "tintColor": "8A28F7",
+      "imageURL": "https://user-images.githubusercontent.com/705880/115617602-6ce2b600-a2a6-11eb-984e-2197a30c71e2.png",
+      "appID": "com.rileytestut.Delta",
+      "date": "2021-04-21",
+      "notify": true
+    },
+    {
+      "title": "#StandWithUkraine",
+      "identifier": "support-ukraine",
+      "caption": "Find out how you can help support those impacted by the Russian invasion.",
+      "tintColor": "003e80",
+      "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
+      "url": "https://linktr.ee/razomforukraine",
+      "date": "2022-03-01",
+      "notify": false
+    },
+    {
+      "title": "The Biggest AltServer Update Yet!",
+      "identifier": "altserver-1-5",
+      "caption": "Update to AltServer 1.5 to use AltJIT and other exciting new features.",
+      "tintColor": "018084",
+      "imageURL": "https://user-images.githubusercontent.com/705880/166509576-744be578-6868-4b7d-b4fd-b9418c084327.png",
+      "url": "https://faq.altstore.io/release-notes/altserver",
+      "date": "2022-05-03",
+      "notify": true
+    },
+    {
+      "title": "More Apps in AltStore!",
+      "identifier": "trusted-sources",
+      "caption": "Update to AltStore 1.5 to easily download some of our favorite apps.",
+      "tintColor": "00CAB3",
+      "imageURL": "https://user-images.githubusercontent.com/705880/167026375-ddcb004f-7160-405c-b3e3-87a6795d2f43.png",
+      "url": "https://faq.altstore.io/release-notes/altstore",
+      "date": "2022-05-05",
+      "notify": true
+    },
+    {
+      "title": "New to AltStore?",
+      "identifier": "updated-faq",
+      "caption": "Check out our updated guide to learn how to sideload apps!",
+      "tintColor": "018084",
+      "url": "https://faq.altstore.io",
+      "date": "2022-07-28",
+      "notify": false
+    },
+    {
+      "title": "More Trusted Sources!",
+      "identifier": "welcome-provenance-pojavlauncher",
+      "caption": "Please welcome Provenance and PojavLauncher to AltStore \ud83c\udf89",
+      "tintColor": "00A2FF",
+      "date": "2022-12-12",
+      "notify": true,
+      "imageURL": "https://user-images.githubusercontent.com/705880/207133455-1e851fd0-89ae-48f0-906f-8f86f4e394db.png"
+    }
+  ],
+  "userInfo": {
+    "patreonAccessToken": "uqoDoTxH8dY1ImE8tK76wxrzKk67gjyjBAcK8sD3RLU"
+  },
+  "version": 2
+}
