@@ -2,4 +2,4 @@
 title: JSON Source
 permalink: /
 ---
-{% include sources %}
+{% include sources.json %}
