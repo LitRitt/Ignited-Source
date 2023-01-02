@@ -4,6 +4,7 @@ author:
   email: dev@litritt.com
 description: The home of some iOS sideload apps
 url: "https://apps.litritt.com"
+remote_theme: litritt/lit-midnight
 
 exclude:
   - "update.py"
@@ -12,6 +13,7 @@ exclude:
   
 plugins:
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 whitelist:
   - jekyll-redirect-from
