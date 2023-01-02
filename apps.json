@@ -1,5 +1,5 @@
 ---
-title: Lit Apps
+title: JSON Source
 permalink: /
 ---
 {% include sources.json %}
