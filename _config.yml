@@ -9,3 +9,9 @@ exclude:
   - "update.py"
   - "LICENSE.txt"
   - "README.md"
+  
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
