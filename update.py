@@ -13,7 +13,7 @@ sourcesData = [
     },
     {
         "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://raw.githubusercontent.com/LitRitt/LitStore/lit/apps.json"},
+        "kwargs": {"filepath": "https://apps.litritt.com"},
         "ids": ["com.SideStore.SideStore"]
     },
     {
