@@ -37,7 +37,7 @@ def header_prepender(filename: str, header: str):
         f.write(header.rstrip('\r\n') + '\n' + content)
         f.truncate()
 
-src = altsource_from_file("_includes/sources.json")
+src = altsource_from_file("_includes/source.json")
 mgr = AltSourceManager(src, sourcesData)
 try:
     mgr.update()
