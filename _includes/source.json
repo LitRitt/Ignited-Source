@@ -103,20 +103,21 @@
   ],
   "news": [
     {
-      "title": "Caution!",
-      "identifier": "caution",
-      "caption": "This is a custom pre-release build! Use at your own risk!",
-      "tintColor": "FF0000",
+      "title": "Welcome to SideStore!",
+      "identifier": "welcome",
+      "caption": "Check out the Wiki for more info.",
+      "tintColor": "A405FA",
+      "url": "https://wiki.sidestore.io",
       "date": "2050-12-25",
       "notify": false
     },
     {
-      "title": "LitStore GitHub",
-      "identifier": "litstore-github",
-      "caption": "Check out the GitHub page for this project",
-      "tintColor": "A405FA",
-      "url": "https://github.com/LitRitt/LitStore",
-      "date": "2050-12-25",
+      "title": "Proceed with Caution!",
+      "identifier": "caution",
+      "caption": "This is pre-release software! Expect bugs, and use this link to report them.",
+      "tintColor": "FF0F0F",
+      "url": "https://github.com/LitRitt/LitStore/issues"
+      "date": "2050-01-01",
       "notify": false
     }
   ],
