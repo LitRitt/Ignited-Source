@@ -18,4 +18,4 @@ jobs:
       - name: Verify JSON # Checks the sourcejson file but not the index.json
         uses: limitusus/json-syntax-check@v2.0.0
         with:
-          pattern: "\\source.json"
+          pattern: "\source.json"
