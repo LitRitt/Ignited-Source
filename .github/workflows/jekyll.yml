@@ -48,10 +48,11 @@ jobs:
       run: |
         python update.py
     - name: Git add and commit
-      uses: EndBug/add-and-commit@v9
+      uses: EndBug/add-and-commit@v9.1.1
       with:
-        add: '--all'
-        default_author: github_actions
+        add: '_includes/source.json'
+        author_name: 'LitRitt'
+        author_email: 'dev@litritt.com'
   # Build job
   build:
     runs-on: ubuntu-latest

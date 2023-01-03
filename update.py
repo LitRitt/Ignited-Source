@@ -9,7 +9,6 @@ sourcesData = [
         "parser": Parser.ALTSOURCE,
         "kwargs": {"filepath": "https://apps.altstore.io"},
         "ids": ["com.rileytestut.Delta.Beta"],
-        "getAllNews": True
     },
     {
         "parser": Parser.ALTSOURCE,
