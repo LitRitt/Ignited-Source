@@ -1,5 +1,3 @@
-# ***Lit Apps***
+# ***[Lit Apps](https://apps.litritt.com)***
 
 An AltSource aggregator that serves a single source file
-
-[Add me to SideStore](https://apps.litritt.com)
