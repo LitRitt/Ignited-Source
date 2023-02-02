@@ -17,8 +17,8 @@ sourcesData = [
     },
     {
         "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "Wh0ba", "repo_name": "XPatcher"},
-        "ids": ["com.wh0ba.xpatcher"]
+        "kwargs": {"repo_author": "lonkelle", "repo_name": "Deltroid"},
+        "ids": ["com.rileytestut.Deltroid"]
     }
 ]
 
