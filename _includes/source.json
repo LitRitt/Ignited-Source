@@ -39,6 +39,10 @@
       "appID": "com.SideStore.SideStore"
     },
     {
+      "name": "Deltroid (Alpha)",
+      "bundleIdentifier": "com.rileytestut.Deltroid",
+    },
+    {
       "name": "Delta",
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
       "developerName": "Riley Testut",
