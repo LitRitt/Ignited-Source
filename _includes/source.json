@@ -8,7 +8,7 @@
       "bundleIdentifier": "com.rileytestut.Delta.ignited",
       "developerName": "Lit Development",
       "subtitle": "Retro games meet modern design.",
-      "version": "1.4b5",
+      "version": "1.4b5-ignited",
       "versionDate": "2023-02-19T09:41:00-08:00",
       "versionDescription": "\"Contributors\" screen\n\u2022 See everyone who has contributed to Delta\n\u2022 View associated Pull Requests for contributed features\n\nPREVIOUS BETA\n\u2022 \u201cRespect Silent Mode\u201d setting\n\u2022 Automatically mutes game audio if another app is playing audio\n\u2022 Browse CheatBase for all known cheats for games (thanks Noah Keck @horn978)",
       "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa",
@@ -29,14 +29,14 @@
       ],
       "versions": [
         {
-          "version": "1.4b5",
+          "version": "1.4b5-ignited",
           "date": "2023-02-13T09:41:00-08:00",
           "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa",
           "localizedDescription": "\"Contributors\" screen\n\u2022 See everyone who has contributed to Delta\n\u2022 View associated Pull Requests for contributed features\n\nPREVIOUS BETA\n\u2022 \u201cRespect Silent Mode\u201d setting\n\u2022 Automatically mutes game audio if another app is playing audio\n\u2022 Browse CheatBase for all known cheats for games (thanks Noah Keck @horn978)",
           "size": 46299284
         }
       ],
-      "appID": "com.rileytestut.Delta.Beta"
+      "appID": "com.rileytestut.Delta.ignited"
     }
   ],
   "news": [],
