@@ -11,10 +11,10 @@
       "version": "1.4b5",
       "versionDate": "2023-02-19T09:41:00-08:00",
       "versionDescription": "\"Contributors\" screen\n\u2022 See everyone who has contributed to Delta\n\u2022 View associated Pull Requests for contributed features\n\nPREVIOUS BETA\n\u2022 \u201cRespect Silent Mode\u201d setting\n\u2022 Automatically mutes game audio if another app is playing audio\n\u2022 Browse CheatBase for all known cheats for games (thanks Noah Keck @horn978)",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_4_rc.ipa",
-      "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
-      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
-      "tintColor": "FF5300",
+      "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa",
+      "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "iconURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/icon-180.png?raw=true",
+      "tintColor": "FF6A00",
       "size": 51962593,
       "permissions": [
         {
@@ -23,16 +23,15 @@
         }
       ],
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
-        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG",
-        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
-        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/game.png?raw=true",
+        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/library.png?raw=true",
+        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/settings.png?raw=true"
       ],
       "versions": [
         {
-          "version": "1.4rc",
+          "version": "1.4b5",
           "date": "2023-02-13T09:41:00-08:00",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_4_rc.ipa",
+          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa",
           "localizedDescription": "\"Contributors\" screen\n\u2022 See everyone who has contributed to Delta\n\u2022 View associated Pull Requests for contributed features\n\nPREVIOUS BETA\n\u2022 \u201cRespect Silent Mode\u201d setting\n\u2022 Automatically mutes game audio if another app is playing audio\n\u2022 Browse CheatBase for all known cheats for games (thanks Noah Keck @horn978)",
           "size": 46299284
         }
