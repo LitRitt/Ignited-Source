@@ -6,19 +6,9 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 sourcesData = [
     {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://apps.altstore.io"},
-        "ids": ["com.rileytestut.Delta.Beta"],
-    },
-    {
-        "parser": Parser.ALTSOURCE,
-        "kwargs": {"filepath": "https://apps.litritt.com"},
-        "ids": ["com.SideStore.SideStore"]
-    },
-    {
         "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "lonkelle", "repo_name": "Deltroid"},
-        "ids": ["com.rileytestut.Deltroid"]
+        "kwargs": {"repo_author": "Lit-Development", "repo_name": "Delta-Ignited"},
+        "ids": ["com.rileytestut.Delta.ignited "]
     }
 ]
 
