@@ -8,14 +8,14 @@
       "bundleIdentifier": "com.rileytestut.Delta.ignited",
       "developerName": "Lit Development",
       "subtitle": "Retro games meet modern design.",
-      "version": "1.4b5-ignited",
-      "versionDate": "2023-02-19T09:41:00-08:00",
-      "versionDescription": "\"Contributors\" screen\n\u2022 See everyone who has contributed to Delta\n\u2022 View associated Pull Requests for contributed features\n\nPREVIOUS BETA\n\u2022 \u201cRespect Silent Mode\u201d setting\n\u2022 Automatically mutes game audio if another app is playing audio\n\u2022 Browse CheatBase for all known cheats for games (thanks Noah Keck @horn978)",
-      "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa",
-      "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "version": "0.2.0",
+      "versionDate": "2023-02-20T09:41:00-08:00",
+      "versionDescription": "New Features\n\u2022 Local Multiplayer - Connect up to 4 controllers on supported consoles\n\u2022 Save State Rewind - Rolling save states that can be rewinded to at any time\n\u2022 Extended MFi Support - Add support for missing MFi inputs\n\nv0.1.0\n\u2022 Update Assets - New icons and more\n\u2022 Update GBA Skin - New default gba skin",
+      "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.2.0/delta-ignited.ipa",
+      "localizedDescription": "This update brings some new features and fixes",
       "iconURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/icon-180.png?raw=true",
       "tintColor": "FF6A00",
-      "size": 51962593,
+      "size": 51971282,
       "permissions": [
         {
           "type": "photos",
@@ -23,17 +23,17 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/game.png?raw=true",
-        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/library.png?raw=true",
-        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/settings.png?raw=true"
+        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/game.jpg?raw=true",
+        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/settings.jpg?raw=true",
+        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/library.jpg?raw=true"
       ],
       "versions": [
         {
-          "version": "1.4b5-ignited",
-          "date": "2023-02-13T09:41:00-08:00",
-          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.1.0/delta-ignited.ipa",
-          "localizedDescription": "\"Contributors\" screen\n\u2022 See everyone who has contributed to Delta\n\u2022 View associated Pull Requests for contributed features\n\nPREVIOUS BETA\n\u2022 \u201cRespect Silent Mode\u201d setting\n\u2022 Automatically mutes game audio if another app is playing audio\n\u2022 Browse CheatBase for all known cheats for games (thanks Noah Keck @horn978)",
-          "size": 46299284
+          "version": "0.2.0",
+          "date": "2023-02-20T09:41:00-08:00",
+          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.2.0/delta-ignited.ipa",
+          "localizedDescription": "New Features\n\u2022 Local Multiplayer - Connect up to 4 controllers on supported consoles\n\u2022 Save State Rewind - Rolling save states that can be rewinded to at any time\n\u2022 Extended MFi Support - Add support for missing MFi inputs",
+          "size": 51971282
         }
       ],
       "appID": "com.rileytestut.Delta.ignited"
