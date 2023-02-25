@@ -27,14 +27,14 @@
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/library.jpg?raw=true"
       ],
       "versions": [
-          {
-            "size": 51978697,
-            "version": "0.4.0",
-            "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.4.0/delta-ignited.ipa",
-            "localizedDescription": "New Feature\n\u2022 Customizable Fast Forward Speed",
-            "date": "2023-02-24T00:00:00-00:00"
-          },
-          {
+        {
+          "size": 51978697,
+          "version": "0.4.0",
+          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.4.0/delta-ignited.ipa",
+          "localizedDescription": "New Feature\n\u2022 Customizable Fast Forward Speed",
+          "date": "2023-02-24T00:00:00-00:00"
+        },
+        {
           "size": 51973518,
           "version": "0.3.0",
           "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.3.0/delta-ignited.ipa",
