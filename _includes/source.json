@@ -24,13 +24,13 @@
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/settings.jpg?raw=true"
       ],
       "versions": [
-          {
-            "size": 52097008,
-            "date": "2023-02-25T00:00:10-00:00",
-            "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.0/delta-ignited.ipa",
-            "localizedDescription": "New Feature\n\u2022 Controller Skin Previews - Supports showing a preview image in settings instead of a bare skin image",
-            "version": "0.5.0"
-          },
+        {
+          "size": 52097008,
+          "date": "2023-02-25T00:00:10-00:00",
+          "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.0/delta-ignited.ipa",
+          "localizedDescription": "New Feature\n\u2022 Controller Skin Previews - Supports showing a preview image in settings instead of a bare skin image",
+          "version": "0.5.0"
+        },
         {
           "size": 52094410,
           "date": "2023-02-25T00:00:00-00:00",
