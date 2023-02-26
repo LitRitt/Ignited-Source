@@ -4,8 +4,8 @@
   "apps": [
     {
       "subtitle": "Retro games meet modern design.",
-      "version": "0.5.0",
-      "versionDate": "2023-02-25T00:00:10-00:00",
+      "version": "0.5.1",
+      "versionDate": "2023-02-25T00:00:20-00:00",
       "permissions": [
         {
           "type": "photos",
@@ -16,7 +16,7 @@
       "iconURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/icon-180.png?raw=true",
       "tintColor": "FF6A00",
       "versionDescription": "New Features\n\u2022 Controller Skin Previews\n\u2022 Customizable Fast Forward Speed\n\u2022 Download skins from settings\n\u2022 Genesis Support\n\u2022 Local Multiplayer - Connect up to 4 controllers on supported consoles\n\u2022 Save State Rewind - Rolling save states that can be rewinded to at any time\n\u2022 Extended MFi Support - Add support for missing MFi inputs\n\u2022 Update Assets - New icons and more\n\u2022 Update GBA Skin - New default gba skin",
-      "size": 52097008,
+      "size": 52114631,
       "screenshotURLs": [
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/game.jpg?raw=true",
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/speed.jpg?raw=true",
@@ -24,7 +24,14 @@
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/settings.jpg?raw=true"
       ],
       "versions": [
-        {
+          {
+            "size": 52114631,
+            "date": "2023-02-25T00:00:20-00:00",
+            "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.1/delta-ignited.ipa",
+            "localizedDescription": "New Feature\n\u2022 Controller Skin Previews - Supports showing a preview image in settings instead of a bare skin image\n\nChanges\n\u2022 Updated GBA controller skin to use new previews\n\u2022 Removed branding from GBA skin for a cleaner look",
+            "version": "0.5.1"
+          },
+          {
           "size": 52097008,
           "date": "2023-02-25T00:00:10-00:00",
           "downloadURL": "https://github.com/Lit-Development/Delta-Ignited/releases/download/v0.5.0/delta-ignited.ipa",
