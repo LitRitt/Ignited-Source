@@ -27,11 +27,11 @@ PRIVATE_BUCKET_NAME = 'developer-b2-quick-start-private'   # Bucket with Sample 
 NEW_BUCKET_NAME = 'lit-apps'
 TRANSIENT_BUCKET_NAME = 'lit-bucket'
 
-file1 = "ignited/0.6.1/manifest.plist"
+file1 = "ignited/0.6.2/manifest.plist"
 mime = "text/xml"
 
-file1_pri = "ignited/0.6.1/manifest.plist"
-LOCAL_DIR = '/Users/litritt/Sites/bucket-lit-apps'  # <-- Make sure this directory exists on your local machine; adjust name per your operating system
+file1_pri = "ignited/0.6.2/manifest.plist"
+LOCAL_DIR = '/Users/litritt/Sites/lit-apps/bucket'  # <-- Make sure this directory exists on your local machine; adjust name per your operating system
 
 WEEK_IN_SECONDS = 604800
 
