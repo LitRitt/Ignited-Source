@@ -9,3 +9,4 @@ exclude:
   - "update.py"
   - "LICENSE.txt"
   - "README.md"
+  - "bucket"

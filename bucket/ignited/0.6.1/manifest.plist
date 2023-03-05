@@ -1,6 +1,3 @@
----
-permalink: /ignited
----
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -14,7 +11,7 @@ permalink: /ignited
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/Lit-Development/Delta-Ignited/releases/latest/download/delta-ignited.ipa</string>
+					<string>https://f005.backblazeb2.com/file/lit-apps/ignited/0.6.1/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
