@@ -1,10 +1,10 @@
 {
   "news": [
     {
-      "title": "OTA Installation for Delta Ignited!",
+      "title": "OTA Installation for Delta Ignited",
       "identifier": "ignited-ota-release",
-      "caption": "Patrons can now install and update Delta Ignited at any time from Safari, instead of relying on sideloading solutions like AltStore or Scarlet.\n\nTap to become a patron and unlock this new feature.",
-      "tintColor": "#C72E00",
+      "caption": "Patrons can now install and update Delta Ignited at any time from Safari.\n\nTap to become a patron and unlock this new feature.",
+      "tintColor": "#FCBA03",
       "url": "https://patreon.com/litritt",
       "date": "2023-03-05",
       "notify": true
