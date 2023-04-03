@@ -5,7 +5,7 @@
       "identifier": "ignited-rapid-resume-release",
       "caption": "Resume and change games in the blink of an eye with these new features.",
       "tintColor": "#C830FF",
-      "url": "https://github.com/Lit-Development/Delta-Ignited/releases/tag/v1.1.0",
+      "url": "https://github.com/Lit-Development/Ignited/releases/tag/v1.1.0",
       "imageURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/ignited-rapid-resume-update.png?raw=true",
       "date": "2023-04-02",
       "notify": true
@@ -15,7 +15,7 @@
       "identifier": "ignited-theme-release",
       "caption": "App theming and artwork updates grace Ignited with its v1.0 release.",
       "tintColor": "#34C759",
-      "url": "https://github.com/Lit-Development/Delta-Ignited/releases/tag/v1.0.0",
+      "url": "https://github.com/Lit-Development/Ignited/releases/tag/v1.0.0",
       "imageURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/ignited-theme-release.png?raw=true",
       "date": "2023-03-30",
       "notify": true
@@ -23,23 +23,23 @@
     {
       "title": "Ignited Introduces AltSkins!",
       "identifier": "ignited-alt-skins",
-      "caption": "Making skins has never been better! Alternate appearances, skins with controllers, and in-app debug mode. Download Delta Ignited 0.7 to experience these new features and more!",
+      "caption": "Making skins has never been better! Alternate appearances, skins with controllers, and in-app debug mode. Download Ignited 0.7 to experience these new features and more!",
       "tintColor": "#FF6A00",
-      "url": "https://github.com/Lit-Development/Delta-Ignited/releases/tag/v0.7.0",
+      "url": "https://github.com/Lit-Development/Ignited/releases/tag/v0.7.0",
       "date": "2023-03-18",
       "notify": true
     },
     {
-      "title": "OTA Installation for Delta Ignited",
+      "title": "OTA Installation for Ignited",
       "identifier": "ignited-ota-release",
-      "caption": "Patrons can now install and update Delta Ignited at any time from Safari.\n\nTap to become a patron and unlock this new feature.",
+      "caption": "Patrons can now install and update Ignited at any time from Safari.\n\nTap to become a patron and unlock this new feature.",
       "tintColor": "#FCBA03",
       "url": "https://patreon.com/litritt",
       "date": "2023-03-05",
       "notify": true
     },
     {
-      "title": "Delta Ignited Is Here!",
+      "title": "Ignited Is Here!",
       "identifier": "ignited-initial-release",
       "caption": "New features, fixes, and skins.\n\nTap for full changelog and more info.",
       "tintColor": "FF6A00",
@@ -63,7 +63,7 @@
       "bundleIdentifier": "com.litritt.ignited",
       "iconURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/icon-180.png?raw=true",
       "tintColor": "FF6A00",
-      "versionDescription": "WARNING\n\u2022 This update uses a new bundleID with my domain. It will never change again agter this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app. I apologize for any inconvenience this causes.\n\nNew Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
+      "versionDescription": "WARNING\n\u2022 This update uses a new bundleID with my domain. It will never change again after this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app. I apologize for any inconvenience this causes.\n\nNew Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
       "size": 50355653,
       "screenshotURLs": [
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/theme.jpg?raw=true",
@@ -78,7 +78,7 @@
           "size": 50355653,
           "date": "2023-04-02T00:00:08-00:00",
           "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.1.2/Ignited.ipa",
-          "localizedDescription": "WARNING\n\u2022 This update uses a new bundleID with my domain. It will never change again agter this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app. I apologize for any inconvenience this causes.\n\nNew Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
+          "localizedDescription": "WARNING\n\u2022 This update uses a new bundleID with my domain. It will never change again after this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app. I apologize for any inconvenience this causes.\n\nNew Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
           "version": "1.1.2"
         },
         {
