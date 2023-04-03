@@ -63,7 +63,7 @@
       "bundleIdentifier": "com.litritt.ignited",
       "iconURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/icon-180.png?raw=true",
       "tintColor": "FF6A00",
-      "versionDescription": "New Features\n\u2022 Added a toggle to automatically load the last auto save when launching a game\n\u2022 Added toggle to enabled/disabled in-game toast notifications\n\nUpdates\n\u2022 Removed the Resume Game prompt from the game selection screen\n\u2022 Added a Restart Game pause menu button\n\u2022 Updated toast notification logic to prevent multiple toasts being shown at once",
+      "versionDescription": "WARNING\n\u2022 This update uses a new bundleID with my domain. It will never change again agter this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app. I apologize for any inconvenience this causes.\n\nNew Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
       "size": 50355653,
       "screenshotURLs": [
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/theme.jpg?raw=true",
@@ -78,7 +78,7 @@
           "size": 50355653,
           "date": "2023-04-02T00:00:08-00:00",
           "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.1.2/Ignited.ipa",
-          "localizedDescription": "New Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
+          "localizedDescription": "WARNING\n\u2022 This update uses a new bundleID with my domain. It will never change again agter this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app. I apologize for any inconvenience this causes.\n\nNew Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
           "version": "1.1.2"
         },
         {
