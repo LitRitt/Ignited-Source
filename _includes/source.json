@@ -52,8 +52,8 @@
   "apps": [
     {
       "subtitle": "Retro games meet modern design.",
-      "version": "1.1.2",
-      "versionDate": "2023-04-02T00:00:08-00:00",
+      "version": "1.1.3",
+      "versionDate": "2023-04-05T00:00:08-00:00",
       "permissions": [
         {
           "type": "photos",
@@ -63,7 +63,7 @@
       "bundleIdentifier": "com.litritt.ignited",
       "iconURL": "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/icon-180.png?raw=true",
       "tintColor": "FF6A00",
-      "versionDescription": "WARNING\n\u2022 This update uses a new bundleID with my domain. It will never change again after this point. Installing will not overwrite your old app. You will need to use Sync or manually transfer data to the new app. I apologize for any inconvenience this causes.\n\nNew Features\n\u2022 Made auto save states syncable\n\nUpdates\n\u2022 Made the restart game button available to skins and controllers\n\u2022 Made the current game highlighting stand out more\n\nBugfixes\n\u2022 Fixed last unthemed elements buried in settings",
+      "versionDescription": "New Features\n\u2022 Added option for clicky haptic feedback - A more rigid haptic impulse will be sent on both button press and release\n\u2022 Added slider for haptic feedback strength",
       "size": 50355653,
       "screenshotURLs": [
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/theme.jpg?raw=true",
@@ -74,6 +74,13 @@
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/settings.jpg?raw=true"
       ],
       "versions": [
+        {
+          "size": 50355653,
+          "date": "2023-04-02T00:00:08-00:00",
+          "downloadURL": "https://github.com/Lit-Development/Ignited/releases/download/v1.1.3/Ignited.ipa",
+          "localizedDescription": "New Features\n\u2022 Added option for clicky haptic feedback - A more rigid haptic impulse will be sent on both button press and release\n\u2022 Added slider for haptic feedback strength",
+          "version": "1.1.3"
+        },
         {
           "size": 50355653,
           "date": "2023-04-02T00:00:08-00:00",
