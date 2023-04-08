@@ -76,6 +76,7 @@
       "versionDescription": "New Features\n\u2022 Touch Overlays - Get visual feedback about what buttons are currently pressed\n\u2022 Options for size, opacity, and color of touch overlays\n\u2022 Resume Button added to game collection screen beside the page dots\n\nBugfixes\n\u2022 Fixed controller skins losing transparency on device rotation",
       "size": 50355653,
       "screenshotURLs": [
+        "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/overlay.jpg?raw=true",
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/theme.jpg?raw=true",
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/library.jpg?raw=true",
         "https://github.com/Lit-Development/Assets/blob/main/apps/delta-ignited/game.jpg?raw=true",
