@@ -14,7 +14,7 @@
       "title": "Ignited Gets Skin Debugging Device Switching!",
       "identifier": "ignited-debug-device",
       "caption": "Test every skin layout from any device!",
-      "tintColor": "#FF3B30",
+      "tintColor": "#FF6A00",
       "url": "https://github.com/Lit-Development/Ignited/releases/tag/v1.3.0",
       "date": "2023-04-28",
       "notify": true
