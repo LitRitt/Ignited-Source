@@ -7,8 +7,8 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 sourcesData = [
     {
         "parser": Parser.GITHUB,
-        "kwargs": {"repo_author": "Lit-Development", "repo_name": "Delta-Ignited"},
-        "ids": ["com.rileytestut.Delta.ignited "]
+        "kwargs": {"repo_author": "LitRitt", "repo_name": "Ignited"},
+        "ids": ["com.litritt.ignited "]
     }
 ]
 
