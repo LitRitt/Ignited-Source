@@ -140,7 +140,7 @@
         {
           "size": 45506066,
           "date": "2023-07-16T00:00:00-04:00",
-          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5/Ignited.ipa",
+          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.1/Ignited.ipa",
           "localizedDescription": "Updates\n\u2022 Different button overlay styles to choose from\n\u2022 Updated button sounds to play through the audio engine instead of as system sounds\n\u2022 Button sounds can be played at either their own volume, or the same volume of game audio\n\nBugfixes\n\u2022 Fixes launching a game via deep link not respecting the auto load save state setting",
           "version": "1.5.1"
         },
