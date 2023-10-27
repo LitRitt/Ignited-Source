@@ -1,9 +1,9 @@
 {
   "news": [
     {
-      "title": "Ignited Burns Some Bugs!",
-      "identifier": "ignited-airplay",
-      "caption": "Enjoy your games on an external display, with improved support for various controllers!",
+      "title": "Ignited is ready for iOS 17!",
+      "identifier": "ignited-ios17-bugfixes",
+      "caption": "Safely play your games with less bugs.",
       "tintColor": "#EB4C02",
       "url": "https://github.com/LitRitt/Ignited/releases/tag/v1.5.5",
       "date": "2023-10-26",
