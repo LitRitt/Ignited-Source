@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Ignited Burns Some Bugs!",
+      "identifier": "ignited-airplay",
+      "caption": "Enjoy your games on an external display, with improved support for various controllers!",
+      "tintColor": "#FF6A00",
+      "url": "https://github.com/LitRitt/Ignited/releases/tag/v1.5.5",
+      "date": "2023-10-26",
+      "notify": true
+    },
+    {
       "title": "Ignited Gets AirPlay Support!",
       "identifier": "ignited-airplay",
       "caption": "Enjoy your games on an external display, with improved support for various controllers!",
@@ -117,8 +126,8 @@
   "apps": [
     {
       "subtitle": "Retro games meet modern design.",
-      "version": "1.5.4",
-      "versionDate": "2023-10-22T00:00:00-04:00",
+      "version": "1.5.5",
+      "versionDate": "2023-10-26T00:00:00-04:00",
       "permissions": [
         {
           "type": "photos",
@@ -126,9 +135,9 @@
         }
       ],
       "bundleIdentifier": "com.litritt.ignited",
-      "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/icon-180.png",
+      "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/icon-1024.png",
       "tintColor": "FF6A00",
-      "versionDescription": "https://litritt.com/ignited\n\nNew Features\n\u2022 Added Random Game button to load a random game from your collection\n\nUpdates\n\u2022 Improved preset theme color selection screen\n\u2022 Updated DS default skin to new style\n\u2022 Updated SNES default skin to new style",
+      "versionDescription": "https://litritt.com/ignited\n\nUpdates\n\u2022 Changes some toast notifications to be disabled by default\n\nBugfixes\n\u2022 Fixes a bug with AirPlay display losing transparency after rotating the device\n\u2022 Fixes a bug with AirPlay not showing the correct DS screens on the external display\n\u2022 Fixes games losing audio after switching systems",
       "size": 50355653,
       "screenshotURLs": [
         "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/gameplay.jpg",
@@ -137,6 +146,13 @@
         "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/settings.jpg"
       ],
       "versions": [
+        {
+          "size": 45506066,
+          "date": "2023-10-26T00:00:00-04:00",
+          "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.5/Ignited.ipa",
+          "localizedDescription": "Updates\n\u2022 Changes some toast notifications to be disabled by default\n\nBugfixes\n\u2022 Fixes a bug with AirPlay display losing transparency after rotating the device\n\u2022 Fixes a bug with AirPlay not showing the correct DS screens on the external display\n\u2022 Fixes games losing audio after switching systems",
+          "version": "1.5.5"
+        },
         {
           "size": 45506066,
           "date": "2023-10-22T00:00:00-04:00",
@@ -478,7 +494,7 @@
       "developerName": "LitRitt",
       "localizedDescription": "Ignited is an overhaul of Delta, an all-in-one emulator for iOS.\n\nFEATURES\n\nSupported Game Systems\n\u2022 Nintendo Entertainment System\n\u2022 Super Nintendo Entertainment System\n\u2022 Sega Genesis\n\u2022 Nintendo 64\n\u2022 Game Boy (Color)\n\u2022 Game Boy Advance\n\u2022 Nintendo DS\n\nController Support\n\u2022 Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n\u2022 Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n\u2022 Completely customize button mappings on a per-system, per-controller basis.\n\u2022 Map buttons to special \"Quick Save\", \"Quick Load,\" and \"Fast Forward\" actions.\n\nSave States\n\u2022 Save and load save states for any game from the pause menu.\n\u2022 Lock save states to prevent them from being accidentally overwritten.\n\u2022 Automatically makes backup save states to ensure you never lose your progress.\n\u2022 Support for \"Quick Saves,\" save states that can be quickly saved/loaded with a single button press (requires external controller or supported skin).\n\u2022 Save State Rewind - Rolling save states that can be rewound to for up to 2 minutes. Configurable interval. (Currently disabled)\n\nCheats\n\u2022 Supports various types of cheat codes for each supported system:\n\u2022 NES: Game Genie\n\u2022 SNES: Game Genie, Pro Action Replay\n\u2022 N64: GameShark\n\u2022 GBC: Game Genie, GameShark\n\u2022 GBA: Action Replay, Code Breaker, GameShark\n\u2022 DS: Action Replay\n\nDelta Sync\n\u2022 Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n\u2022 View version histories of everything you sync and optionally restore them to earlier versions.\n\u2022 Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n\u2022 Beautiful built-in controller skins for all systems.\n\u2022 Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n\u2022 Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n\u2022 Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n\u2022 Speed through slower parts of games by running the game much faster than normal.\n\u2022 Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n\u2022 Use 3D or Haptic Touch to \"peek\" at games, save states, and cheat codes.\n\u2022 App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n\u2022 Automatically displays appropriate box art for imported games.\n\u2022 Change a game's artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n\u2022 Gyroscope support (WarioWare: Twisted! only)\n\u2022 Microphone support (DS only)\n\u2022 Support for delta:// URL scheme to jump directly into a specific game.\n\n**Ignited and LitRitt are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
       "name": "Ignited",
-      "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.4/Ignited.ipa"
+      "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.5/Ignited.ipa"
     }
   ],
   "identifier": "com.litritt.litsource",
