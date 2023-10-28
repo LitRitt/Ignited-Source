@@ -19,10 +19,12 @@
           "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/icon-1024.png",
           "tintColor": "#FF6A00",
           "screenshots": [
-              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/gameplay.jpg",
-              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/library.jpg",
-              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/quick-settings.jpg",
-              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/settings.jpg"
+              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/gameplay.png",
+              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/library.png",
+              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/save-states.png",
+              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/quick-settings.png",
+              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/settings.png",
+              "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/palettes.png"
           ],
           "versions": [
               {
