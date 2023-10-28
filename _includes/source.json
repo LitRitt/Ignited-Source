@@ -1,11 +1,10 @@
 {
     "name": "LitRitt's Source",
+    "identifier": "com.litritt.litsource",
     "subtitle": "The home of all things Lit.",
     "description": "This source gives you access to the Ignited Emulator, an enhanced fork of Delta with many new features and QoL changes.",
     "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/altstore-icon.png",
     "headerURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/altstore-cover.png",
-    "identifier": "com.litritt.litsource",
-    "sourceURL": "https://apps.litritt.com",
     "website": "https://litritt.com",
     "tintColor": "#FF6A00",
     "featuredApps": [
@@ -39,15 +38,36 @@
                     "sha256": "00966c10a3e4eb32ede77261e48e36d06bb5167f5ae5b8477d427a8fcc3bff9e"
                 }
             ],
+            "version": "1.5.6",
+            "versionDate": "2023-10-27T09:00:00-08:00",
+            "versionDescription": "New Features\n\u2022 Adds support for dynamic background blur tinting based on device light/dark mode setting\n  \u2022 The background blur will be darkened in dark mode and lightened in light mode\n  \u2022 Intensity of the tint can also be adjusted\n\u2022Updates\n\u2022 Makes DSi support toggle-able\n  \u2022 Users won't be able to add DSi BIOS files until toggling DSi support on first\n  \u2022 The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen\n\u2022 Moves Core Settings below Features in the settings page",
+            "size": 55199847,
+            "permissions": [
+              {
+                "type": "photos",
+                "usageDescription": "Allows Ignited to use images from your Photo Library as game artwork, and to save game screenshots to your Photo Library."
+              }
+            ],
             "appPermissions": {
                 "entitlements": [
-                    "get-task-allow"
+                    {
+                        "name": "get-task-allow"
+                    }
                 ],
-                "privacy": {
-                    "NSLocalNetworkUsageDescription": "Ignited uses the local network to communicate with AltServer and enable JIT.",
-                    "NSPhotoLibraryUsageDescription": "Ignited saves game screenshots to your Photo Library, and also can use photos as game artwork.",
-                    "NSMicrophoneUsageDescription": "Ignited uses your microphone to emulate the Nintendo DS microphone."
-                }
+                "privacy": [
+                    {
+                        "name": "LocalNetwork",
+                        "usageDescription": "Ignited uses the local network to communicate with AltServer and enable JIT."
+                    },
+                    {
+                        "name": "PhotoLibrary",
+                        "usageDescription": "Allows Ignited to use images from your Photo Library as game artwork, and to save game screenshots to your Photo Library."
+                    },
+                    {
+                        "name": "Microphone",
+                        "usageDescription": "Ignited uses your microphone to emulate the Nintendo DS microphone."
+                    }
+                ]
             }
         }
     ],
@@ -61,5 +81,6 @@
             "notify": false,
             "appID": "com.litritt.ignited"
         }
-    ]
+    ],
+    "userInfo": {}
 }
