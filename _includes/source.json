@@ -51,20 +51,10 @@
   ],
   "news": [
       {
-          "title": "Ignited Dynamic Background Blur",
-          "identifier": "ignited_dynamic_blur",
-          "caption": "Background blurs for skins can now be dynamically tinted based on the device's light/dark mode setting.",
-          "date": "2023-10-27",
-          "tintColor": "#429377",
-          "imageURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/ignited_dynamic_blur.png",
-          "notify": true,
-          "url": "https://github.com/LitRitt/Ignited/releases/tag/v1.5.6"
-      },
-      {
-          "title": "Source Updated for AltStore 2.0",
+          "title": "Ignited Source Updated for AltStore 2.0",
           "identifier": "litritt_source_update",
-          "caption": "Enjoy a satisfying and safe experience using the new source.",
-          "date": "2023-03-10T10:00:00-07:00",
+          "caption": "Enjoy a safer source, now with descriptive app permissions and sha256 hashes for downloads.",
+          "date": "2023-10-28T10:00:00-07:00",
           "tintColor": "#FF6A00",
           "notify": false,
           "appID": "com.litritt.ignited"
