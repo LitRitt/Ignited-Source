@@ -49,7 +49,7 @@
           "identifier": "ignited_dynamic_blur",
           "caption": "Background blurs for skins can now be dynamically tinted based on the device's light/dark mode setting.",
           "date": "2023-10-27",
-          "tintColor": "#FF9D00",
+          "tintColor": "#429377",
           "imageURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/ignited_dynamic_blur.png",
           "notify": true,
           "url": "https://github.com/LitRitt/Ignited/releases/tag/v1.5.6"
