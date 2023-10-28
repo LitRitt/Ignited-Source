@@ -2,8 +2,8 @@
   "name": "LitRitt's Source",
   "subtitle": "The home of all things Lit.",
   "description": "This source gives you access to the Ignited Emulator, an enhanced fork of Delta with many new features and QoL changes.",
-  "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/icon-1024.png",
-  "headerURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/icon-1024.png",
+  "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/icon-transparent.png",
+  "headerURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/altstore-cover.png",
   "website": "https://litritt.com",
   "tintColor": "#FF6A00",
   "featuredApps": [
