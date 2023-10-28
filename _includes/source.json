@@ -33,7 +33,8 @@
                   "size": 55199847,
                   "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.6/Ignited.ipa",
                   "localizedDescription": "New Features\n\u2022 Adds support for dynamic background blur tinting based on device light/dark mode setting\n  \u2022 The background blur will be darkened in dark mode and lightened in light mode\n  \u2022 Intensity of the tint can also be adjusted\n\u2022Updates\n\u2022 Makes DSi support toggle-able\n  \u2022 Users won't be able to add DSi BIOS files until toggling DSi support on first\n  \u2022 The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen\n\u2022 Moves Core Settings below Features in the settings page",
-                  "minOSVersion": "14.0"
+                  "minOSVersion": "14.0",
+                  "sha256": "00966c10a3e4eb32ede77261e48e36d06bb5167f5ae5b8477d427a8fcc3bff9e"
               }
           ],
           "appPermissions": {
