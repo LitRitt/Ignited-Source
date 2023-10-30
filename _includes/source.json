@@ -37,20 +37,29 @@
             ],
             "versions": [
                 {
+                    "version": "1.6",
+                    "date": "2023-10-30T10:00:00-04:00",
+                    "size": 55211482,
+                    "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.6/Ignited.ipa",
+                    "localizedDescription": "NEW FEATURES\n\u2022 Adds an informative popup after successfully importing controller skins and games\n\u2022 Adds a setting to show unsupported controller skins\n\u2022 Adds an All Systems page to settings for controller skin management",
+                    "minOSVersion": "14.0",
+                    "sha256": "e92c8ee89464f5e09b34343fc7e16f3ba84411df1c490b2ec770c6cb01966dda"
+                },
+                {
                     "version": "1.5.6",
-                    "date": "2023-10-27T09:00:00-08:00",
+                    "date": "2023-10-27T10:00:00-04:00",
                     "size": 55199847,
                     "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.6/Ignited.ipa",
-                    "localizedDescription": "New Features\n\u2022 Adds support for dynamic background blur tinting based on device light/dark mode setting\n  \u2022 The background blur will be darkened in dark mode and lightened in light mode\n  \u2022 Intensity of the tint can also be adjusted\n\u2022Updates\n\u2022 Makes DSi support toggle-able\n  \u2022 Users won't be able to add DSi BIOS files until toggling DSi support on first\n  \u2022 The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen\n\u2022 Moves Core Settings below Features in the settings page",
+                    "localizedDescription": "NEW FEATURES\n\u2022 Adds support for dynamic background blur tinting based on device light/dark mode setting\n  \u2022 The background blur will be darkened in dark mode and lightened in light mode\n  \u2022 Intensity of the tint can also be adjusted\n\nUPDATES\n\u2022 Makes DSi support toggle-able\n  \u2022 Users won't be able to add DSi BIOS files until toggling DSi support on first\n  \u2022 The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen\n\u2022 Moves Core Settings below Features in the settings page",
                     "minOSVersion": "14.0",
                     "sha256": "00966c10a3e4eb32ede77261e48e36d06bb5167f5ae5b8477d427a8fcc3bff9e"
                 }
             ],
-            "version": "1.5.6",
-            "versionDate": "2023-10-27T09:00:00-08:00",
-            "versionDescription": "New Features\n\u2022 Adds support for dynamic background blur tinting based on device light/dark mode setting\n  \u2022 The background blur will be darkened in dark mode and lightened in light mode\n  \u2022 Intensity of the tint can also be adjusted\n\u2022Updates\n\u2022 Makes DSi support toggle-able\n  \u2022 Users won't be able to add DSi BIOS files until toggling DSi support on first\n  \u2022 The DSi NAND file will be removed when DSi support is toggled off to remove the DSi Home Screen\n\u2022 Moves Core Settings below Features in the settings page",
-            "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.5.6/Ignited.ipa",
-            "size": 55199847,
+            "version": "1.6",
+            "versionDate": "2023-10-29T09:00:00-08:00",
+            "versionDescription": "NEW FEATURES\n\u2022 Adds an informative popup after successfully importing controller skins and games\n\u2022 Adds a setting to show unsupported controller skins\n\u2022 Adds an All Systems page to settings for controller skin management",
+            "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.6/Ignited.ipa",
+            "size": 55211482,
             "permissions": [
               {
                 "type": "photos",
@@ -82,13 +91,21 @@
     ],
     "news": [
         {
+            "title": "Improved Skin Management",
+            "identifier": "ignited_skin_management",
+            "caption": "Managing your skins in Ignited is easier than ever in v1.6. Get detailed import messages, view and delete unsupported skins, and manage all systems at once.",
+            "date": "2023-10-30T02:20:00-04:00",
+            "tintColor": "#FF6A00",
+            "notify": true,
+            "appID": "com.litritt.ignited"
+        },
+        {
             "title": "LitRitt's Source Updated for AltStore 2.0",
             "identifier": "litritt_source_update",
             "caption": "Enjoy a safer source, now with descriptive app permissions and sha256 hashes for downloads.",
-            "date": "2023-10-28T10:00:00-07:00",
+            "date": "2023-10-28T10:00:00-04:00",
             "tintColor": "#FF6A00",
-            "notify": false,
-            "appID": "com.litritt.ignited"
+            "notify": false
         }
     ],
     "userInfo": {}
