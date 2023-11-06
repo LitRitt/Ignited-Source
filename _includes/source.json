@@ -1,11 +1,11 @@
 {
-    "name": "LitRitt's Source",
+    "name": "Ignited Emulator",
     "identifier": "com.litritt.litsource",
-    "subtitle": "The home of all things Lit.",
-    "description": "This source gives you access to the Ignited Emulator, an enhanced fork of Delta with many new features and QoL changes.",
+    "subtitle": "Home to Ignited",
+    "description": "Add this source to install Ignited - the hottest emulator for iPhone and iPad.",
     "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/altstore-icon.png",
     "headerURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/altstore-cover.png",
-    "website": "https://litritt.com",
+    "website": "https://docs.ignitedemulator.com",
     "tintColor": "#FF6A00",
     "featuredApps": [
         "com.litritt.ignited"
@@ -109,8 +109,8 @@
             "appID": "com.litritt.ignited"
         },
         {
-            "title": "LitRitt's Source Updated for AltStore 2.0",
-            "identifier": "litritt_source_update",
+            "title": "Official Source for Ignited",
+            "identifier": "ignited_source_release",
             "caption": "Enjoy a safer source, now with descriptive app permissions and sha256 hashes for downloads.",
             "date": "2023-10-28T10:00:00-04:00",
             "tintColor": "#FF6A00",
