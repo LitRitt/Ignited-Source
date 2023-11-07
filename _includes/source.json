@@ -5,7 +5,7 @@
     "description": "Add this source to install Ignited - the hottest emulator for iPhone and iPad.",
     "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/altstore-icon.png",
     "headerURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/altstore-cover.png",
-    "website": "https://docs.ignitedemulator.com",
+    "website": "https://ignitedemulator.com",
     "tintColor": "#FF6A00",
     "featuredApps": [
         "com.litritt.ignited"
