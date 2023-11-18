@@ -20,20 +20,20 @@
             "iconURL": "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/icon-1024.png",
             "tintColor": "#FF6A00",
             "screenshotURLs": [
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/gameplay.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/library.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/save-states.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/quick-settings.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/settings.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/palettes.png"
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/gameplay-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/pause-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/library-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/states-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/quick-settings-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/settings-light.PNG"
             ],
             "screenshots": [
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/gameplay.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/library.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/save-states.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/quick-settings.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/settings.png",
-                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/palettes.png"
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/gameplay-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/pause-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/library-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/states-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/quick-settings-light.PNG",
+                "https://f005.backblazeb2.com/file/lit-apps/assets/ignited/settings-light.PNG"
             ],
             "versions": [
                 {
