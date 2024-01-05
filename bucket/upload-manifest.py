@@ -11,7 +11,7 @@ import sys
 
 BUCKET_NAME = 'lit-apps'
 
-LOCAL_DIR = '/Users/litritt/Sites/lit-apps/bucket'  # <-- Make sure this directory exists on your local machine; adjust name per your operating system
+LOCAL_DIR = '/Users/litritt/Ignited-Source/bucket'  # <-- Make sure this directory exists on your local machine; adjust name per your operating system
 
 WEEK_IN_SECONDS = 604800
 
