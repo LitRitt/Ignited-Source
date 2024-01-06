@@ -105,7 +105,7 @@ def main():
     # Call function to return reference to B2 service
     b2 = get_b2_resource(endpoint, key_id, application_key)
 
-    file = "ignited/" + args[0] + "/manifest.plist"
+    file = "ignited/versions/" + args[0] + "/manifest.plist"
     mime = "text/xml"
 
     response = upload_file(BUCKET_NAME, LOCAL_DIR, file, b2, mime)
