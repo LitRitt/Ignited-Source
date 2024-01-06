@@ -55,7 +55,7 @@
                     "downloadURL": "https://f005.backblazeb2.com/file/lit-apps/ignited/1.7.2/Ignited.ipa",
                     "localizedDescription": "New\n\u2022 Adds options for opening the Pause Menu by shaking your device\n\nChanged\n\u2022 Makes the New Game, Pause, and Star icons on artwork able to be disabled\n\u2022 Makes the Pause Menu items able to be rearranged in settings\n\u2022 Makes context menu previews use auto-save states if enabled\n\nFixed\n\u2022 Makes custom artwork background color support transparency\n\u2022 Adjusts DS artwork forced aspect ratio",
                     "minOSVersion": "14.0",
-                    "sha256": "62bbae22ec808128334565e392ed46d8af7e6313064b5538bb59e13c9fd563c0"
+                    "sha256": "02078abf09e59f34ffb4ab765921557adc2342ce0578f4fcae091e962c7e9d45"
                 },
                 {
                     "version": "1.7.1",
