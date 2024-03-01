@@ -55,7 +55,7 @@
                     "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.7/Ignited.ipa",
                     "localizedDescription": "New\n\u2022 Recombines GB and GBC cores into a single GBC core\n  \u2022 Skins for GBC can now be used on GB games\n\u2022 Adds an option to mute game audio during fast forward\n\u2022 Adds toggles for whether certain pause menu options should close the menu after use\n\u2022 Adds a threshold option to determine whether artwork should use the forced aspect ratio option\n\u2022 Adds a toggle to disable limits imposed during critical battery level\n\nChanged\n\u2022 Background blur is no longer a Pro feature\n  \u2022 Tint intensity and blur strength are now Pro options\n\u2022 Rewind is no longer a Pro feature\n  \u2022 Free users are limited to 4 rewind states at 15 second intervals\n\u2022 The first custom Game Boy palette is now available to free users\n\u2022 Quick settings button replacement is no longer a Pro feature\n\u2022 Animated artwork is no longer a Pro feature\n\u2022 Touch overlay style is now a Pro option\n\u2022 Touch sound is no longer a Pro feature\n  \u2022 Sound selection is now a Pro option\n\nFixed\n\u2022 Fixes default favorites style not highlighting the artwork border",
                     "minOSVersion": "16.0",
-                    "sha256": "58b84895626304d3829257e8cb040bc3dd5e2d46f576199ed59b38befbcebc94"
+                    "sha256": "80fe21a5fead23d8417636237b70fbb76ef8956f689973fe9a5feae398ba1fee"
                 },
                 {
                     "version": "1.8.6",
