@@ -49,6 +49,15 @@
             ],
             "versions": [
                 {
+                    "version": "1.9",
+                    "date": "2024-03-09T10:00:00-04:00",
+                    "size": 34471693,
+                    "downloadURL": "https://cdn.ignitedemulator.com/versions/1.9/Ignited.ipa",
+                    "localizedDescription": "This update contains the following improvements:\n\u2022 Replaces the pre-rendered Standard Skins with software-rendered skins that can be customized by users.\n\u2022 Replaces the background blur implementation with build-in iOS blurring and adds new features.\n\u2022 Adds a new battery coloring for visual elements that dynamically adjusts to the current battery level. 100% -> Green, 50% -> Yellow, 0% -> Red.\n\u2022 Adds new AirPlay settings and moves all AirPlay settings into a new feature section.\n\nCheck the related News posting for detailed update notes.",
+                    "minOSVersion": "16.0",
+                    "sha256": "a7fd483e198b9c7a5d5740272304ba54ab8dd64be21f82f75d477e84323a9872"
+                },
+                {
                     "version": "1.8.7",
                     "date": "2024-02-10T10:00:00-04:00",
                     "size": 74540387,
@@ -121,11 +130,11 @@
                     "sha256": "4204b60f89d66190e5c49ebcf10d59c3fb85d38c37e6985395e065213bc59014"
                 }
             ],
-            "version": "1.8.7",
-            "versionDate": "2024-02-10T10:00:00-04:00",
-            "versionDescription": "New\n\u2022 Recombines GB and GBC cores into a single GBC core\n  \u2022 Skins for GBC can now be used on GB games\n\u2022 Adds an option to mute game audio during fast forward\n\u2022 Adds toggles for whether certain pause menu options should close the menu after use\n\u2022 Adds a threshold option to determine whether artwork should use the forced aspect ratio option\n\u2022 Adds a toggle to disable limits imposed during critical battery level\n\nChanged\n\u2022 Background blur is no longer a Pro feature\n  \u2022 Tint intensity and blur strength are now Pro options\n\u2022 Rewind is no longer a Pro feature\n  \u2022 Free users are limited to 4 rewind states at 15 second intervals\n\u2022 The first custom Game Boy palette is now available to free users\n\u2022 Quick settings button replacement is no longer a Pro feature\n\u2022 Animated artwork is no longer a Pro feature\n\u2022 Touch overlay style is now a Pro option\n\u2022 Touch sound is no longer a Pro feature\n  \u2022 Sound selection is now a Pro option\n\nFixed\n\u2022 Fixes default favorites style not highlighting the artwork border",
-            "downloadURL": "https://cdn.ignitedemulator.com/versions/1.8.7/Ignited.ipa",
-            "size": 74540387,
+            "version": "1.9",
+            "versionDate": "2024-03-09T10:00:00-04:00",
+            "versionDescription": "This update contains the following improvements:\n\u2022 Replaces the pre-rendered Standard Skins with software-rendered skins that can be customized by users.\n\u2022 Replaces the background blur implementation with build-in iOS blurring and adds new features.\n\u2022 Adds a new battery coloring for visual elements that dynamically adjusts to the current battery level. 100% -> Green, 50% -> Yellow, 0% -> Red.\n\u2022 Adds new AirPlay settings and moves all AirPlay settings into a new feature section.\n\nCheck the related News posting for detailed update notes.",
+            "downloadURL": "https://cdn.ignitedemulator.com/versions/1.9/Ignited.ipa",
+            "size": 34471693,
             "permissions": [
               {
                 "type": "photos",
@@ -156,6 +165,17 @@
         }
     ],
     "news": [
+        {
+            "title": "Customizable Skins",
+            "identifier": "ignited_standard_skins",
+            "caption": "This update adds 15 new icons inspired by popular retro games and characters!",
+            "date": "2024-03-09T02:20:00-04:00",
+            "url": "https://docs.ignitedemulator.com/release-notes#ignited-1.9",
+            "imageURL": "https://cdn.ignitedemulator.com/assets/news-standard-skins.png",
+            "tintColor": "#FF6A00",
+            "notify": true,
+            "appID": "com.litritt.ignited"
+        },
         {
             "title": "New Game Icons",
             "identifier": "ignited_game_icons",
