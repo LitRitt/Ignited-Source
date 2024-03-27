@@ -49,6 +49,15 @@
             ],
             "versions": [
                 {
+                    "version": "1.10",
+                    "date": "2024-03-27T10:00:00-04:00",
+                    "size": 35402158,
+                    "downloadURL": "https://cdn.ignitedemulator.com/versions/1.10/Ignited.ipa",
+                    "localizedDescription": "This update contains the following improvements:\n\u2022 Adds mGBA as a core for GBA and GBC\n\u2022 Many improvements to the Standard Skins\n\nCheck the related News posting for detailed update notes.",
+                    "minOSVersion": "16.0",
+                    "sha256": "eac4b4700d3b2a805fe83b6e6f9480d24e4399c2c5b5385b6ed302418a60e509"
+                },
+                {
                     "version": "1.9",
                     "date": "2024-03-09T10:00:00-04:00",
                     "size": 34471693,
@@ -130,11 +139,11 @@
                     "sha256": "4204b60f89d66190e5c49ebcf10d59c3fb85d38c37e6985395e065213bc59014"
                 }
             ],
-            "version": "1.9",
-            "versionDate": "2024-03-09T10:00:00-04:00",
-            "versionDescription": "This update contains the following improvements:\n\u2022 Replaces the pre-rendered Standard Skins with software-rendered skins that can be customized by users.\n\u2022 Replaces the background blur implementation with build-in iOS blurring and adds new features.\n\u2022 Adds a new battery coloring for visual elements that dynamically adjusts to the current battery level. 100% -> Green, 50% -> Yellow, 0% -> Red.\n\u2022 Adds new AirPlay settings and moves all AirPlay settings into a new feature section.\n\nCheck the related News posting for detailed update notes.",
-            "downloadURL": "https://cdn.ignitedemulator.com/versions/1.9/Ignited.ipa",
-            "size": 34471693,
+            "version": "1.10",
+            "versionDate": "2024-03-27T10:00:00-04:00",
+            "versionDescription": "This update contains the following improvements:\n\u2022 Adds mGBA as a core for GBA and GBC\n\u2022 Many improvements to the Standard Skins\n\nCheck the related News posting for detailed update notes.",
+            "downloadURL": "https://cdn.ignitedemulator.com/versions/1.10/Ignited.ipa",
+            "size": 35402158,
             "permissions": [
               {
                 "type": "photos",
@@ -166,9 +175,19 @@
     ],
     "news": [
         {
+            "title": "mGBA is Here",
+            "identifier": "ignited_mgba",
+            "caption": "This update adds mGBA as an enhanced core for GBA and GBC games!",
+            "date": "2024-03-27T02:20:00-04:00",
+            "url": "https://docs.ignitedemulator.com/release-notes#ignited-1.10",
+            "tintColor": "#FF6A00",
+            "notify": true,
+            "appID": "com.litritt.ignited"
+        },
+        {
             "title": "Customizable Skins",
             "identifier": "ignited_standard_skins",
-            "caption": "This updates adds new standard skins that can be completely customized!",
+            "caption": "This update adds new standard skins that can be completely customized!",
             "date": "2024-03-09T02:20:00-04:00",
             "url": "https://docs.ignitedemulator.com/release-notes#ignited-1.9",
             "imageURL": "https://cdn.ignitedemulator.com/assets/news-standard-skins.png",
