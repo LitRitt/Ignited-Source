@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cdn.ignitedemulator.com/versions/1.9/Ignited.ipa</string>
+					<string>https://cdn.ignitedemulator.com/versions/1.10/Ignited.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.litritt.ignited</string>
 				<key>bundle-version</key>
-				<string>1.9</string>
+				<string>1.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
