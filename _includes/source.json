@@ -1,8 +1,8 @@
 {
-    "name": "Ignited",
+    "name": "Ignited Source",
     "identifier": "com.litritt.ignited.source",
-    "subtitle": "Retro Nintendo Emulator",
-    "description": "Add this source to install Ignited - the hottest emulator for iPhone and iPad.",
+    "subtitle": "Retro Game Emulator",
+    "description": "Add this source to install Ignited, a multi system retro game emulator for iPhone and iPad.",
     "iconURL": "https://cdn.ignitedemulator.com/assets/altstore-icon.png",
     "headerURL": "https://cdn.ignitedemulator.com/assets/altstore-cover.png",
     "website": "https://ignitedemulator.com",
@@ -55,7 +55,7 @@
                     "downloadURL": "https://cdn.ignitedemulator.com/versions/1.10/Ignited.ipa",
                     "localizedDescription": "This update contains the following improvements:\n\u2022 Adds mGBA as a core for GBA and GBC\n\u2022 Many improvements to the Standard Skins\n\nCheck the related News posting for detailed update notes.",
                     "minOSVersion": "16.0",
-                    "sha256": "c9b6c95c6788acb60974924598b564e4663c9965f5b8ef6a3e68a2fbccf1d6ac"
+                    "sha256": "4ddd55f36462eea24ff0490399ce6ee09f5b1fca4b9c8a519fedf315f42f9a1b"
                 },
                 {
                     "version": "1.9",
