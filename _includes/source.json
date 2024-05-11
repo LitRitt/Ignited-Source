@@ -55,7 +55,7 @@
                     "downloadURL": "https://cdn.ignitedemulator.com/versions/1.10/Ignited.ipa",
                     "localizedDescription": "This update contains the following improvements:\n\u2022 Adds mGBA as a core for GBA and GBC\n\u2022 Many improvements to the Standard Skins\n\nCheck the related News posting for detailed update notes.",
                     "minOSVersion": "16.0",
-                    "sha256": "44dca05ab4867e5075737fbc35736c35c5a52ca1b7e40367cbd0ae3752ae0981"
+                    "sha256": "63b0dbf2eada028a3a1ce101db59ce7f9da80caeb042d0ad1ae063fae9acdf79"
                 },
                 {
                     "version": "1.9",
