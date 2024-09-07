@@ -37,6 +37,7 @@
             "versions": [
                 {
                     "version": "1.11",
+                    "buildVersion": "256",
                     "date": "2024-07-25T10:00:00-04:00",
                     "size": 68402158,
                     "downloadURL": "https://cdn.ignitedemulator.com/market/1.11",
